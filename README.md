@@ -1,0 +1,1 @@
+# Analog-to-Digital-Conversion-of-Gauge-Meter-using-OpenCV
