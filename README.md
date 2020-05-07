@@ -12,4 +12,4 @@ Hardware setup consisted of Raspberry Pi as the processing module along with a R
 
 In the Code, the user has to adjust certain parameters such as Binary Threshold, and parameters related to the HoughCircles() and HoughLinesP() depending upon the image quality and the gauge meter.
 
-Also the scale of the Gauge meter needs to be taken care of. The scale of the Gauge meter attached above might not be the same as another Gauge meter's scale.
+Also the scale of the Gauge meter needs to be taken care of. The scale of the Gauge meter attached above might not be the same as another Gauge meter's scale that you are using for your purpose.
